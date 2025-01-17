@@ -89,8 +89,9 @@ This bed configuration works for the stock V6 setup. Depending on your nozzle he
 | :---                        |  :----:  | :---  |
 | NEMA 17 Stepper Motor       |     3    | [Amazon](https://a.co/d/fHqu4pj) |
 | F688ZZ Flanged - 8x16x5mm   |     3    | [RatRig US](https://us.ratrig.com/ball-bearing-f688zz.html), [RatRig INTL](https://ratrig.com/ball-bearing-f688zz.html) |
-| T8*8 Lead screw - 350mm     |     3    | [Amazon](https://a.co/d/1wLjaOY) |
+| T8*8 Lead Screw - 350mm     |     3    | [Amazon](https://a.co/d/1wLjaOY) |
 | Coupler - 5x8mm             |     3    | [Amazon](https://a.co/d/5FWJcxl) |
+| M3 Heat Inserts             |     6    | |
 | M3 Countersink - 12mm       |     12   | [Amazon](https://a.co/d/gf60rxQ) |
 | M5 Button Head Screw - 10mm |     20   | [Amazon](https://a.co/d/6TOt8Vt) |
 | M5 3030 T-Nut               |     20   | [Amazon](https://a.co/d/0dSIwOj) |
