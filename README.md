@@ -12,6 +12,37 @@ All the necessary components to fit the RatRig cast bed inside a the stock Hyper
 |  :----:  |  :----:  |  :----:  |
 | <img src="Images/Bed_Opt_A.png"> | <img src="Images/Bed_Opt_B.png"> | <img src="Images/Bed_Opt_C.png"> |
 
+# Printed Parts
+
+### Option A or B
+| Part                                                  | Quantity |
+| :---                                                  |  :----:  |
+| Z Axis Bed Arm - Opt (A or B) - Front Left            |     1    |
+| Z Axis Bed Arm - Opt (A or B) - Front Right           |     1    |
+| Z Axis Bed Arm - Opt (A or B) - Rear - (60mm or 35mm) |     1    |
+|||
+| Z Axis Motor Mount - Front                            |     2    |
+| Z Axis Motor Mount - Rear                             |     1    |
+|||
+| Z Axis Linear Rod Bracket - Bottom Left - Scott3D     |     2    |
+| Z Axis Linear Rod Bracket - Bottom Right - Scott3D    |     1    |
+| Z Axis Linear Rod Bracket - Top Left                  |     2    |
+| Z Axis Linear Rod Bracket - Top Right                 |     1    |
+
+
+### Option C
+| Part                                               | Quantity |
+| :---                                               |  :----:  |
+| Z Axis Bed Arm - Opt B - Front Left                |     2    |
+| Z Axis Bed Arm - Opt B - Front Right               |     1    |
+|||
+| Z Axis Motor Mount - Rear                          |     3    |
+|||
+| Z Axis Linear Rod Bracket - Bottom Left - Scott3D  |     2    |
+| Z Axis Linear Rod Bracket - Bottom Right - Scott3D |     1    |
+| Z Axis Linear Rod Bracket - Top Left               |     2    |
+| Z Axis Linear Rod Bracket - Top Right              |     1    |
+
 # BOM
 ### Note
 A majority of these parts are going to be from RatRig because this bed system is more of a adaptation. 
@@ -55,35 +86,3 @@ This bed configuration works for the stock V6 setup. Depending on your nozzle he
 | M3 Countersink - 12mm       |     12   | [Amazon](https://a.co/d/gf60rxQ) |
 | M5 Button Head Screw - 10mm |     20   | [Amazon](https://a.co/d/6TOt8Vt) |
 | M5 3030 T-Nut               |     20   | [Amazon](https://a.co/d/0dSIwOj) |
-
-
-# Printed Parts
-
-### Option A or B
-| Part                                                  | Quantity |
-| :---                                                  |  :----:  |
-| Z Axis Bed Arm - Opt (A or B) - Front Left            |     1    |
-| Z Axis Bed Arm - Opt (A or B) - Front Right           |     1    |
-| Z Axis Bed Arm - Opt (A or B) - Rear - (60mm or 35mm) |     1    |
-|||
-| Z Axis Motor Mount - Front                            |     2    |
-| Z Axis Motor Mount - Rear                             |     1    |
-|||
-| Z Axis Linear Rod Bracket - Bottom Left - Scott3D     |     2    |
-| Z Axis Linear Rod Bracket - Bottom Right - Scott3D    |     1    |
-| Z Axis Linear Rod Bracket - Top Left                  |     2    |
-| Z Axis Linear Rod Bracket - Top Right                 |     1    |
-
-
-### Option C
-| Part                                               | Quantity |
-| :---                                               |  :----:  |
-| Z Axis Bed Arm - Opt B - Front Left                |     2    |
-| Z Axis Bed Arm - Opt B - Front Right               |     1    |
-|||
-| Z Axis Motor Mount - Rear                          |     3    |
-|||
-| Z Axis Linear Rod Bracket - Bottom Left - Scott3D  |     2    |
-| Z Axis Linear Rod Bracket - Bottom Right - Scott3D |     1    |
-| Z Axis Linear Rod Bracket - Top Left               |     2    |
-| Z Axis Linear Rod Bracket - Top Right              |     1    |
