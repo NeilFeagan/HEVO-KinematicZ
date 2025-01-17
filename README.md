@@ -25,6 +25,7 @@ As a point of reference the stock V6 setup uses Option B. If your nozzle is more
 |||
 | Z Axis Motor Mount - Front                            |     2    |
 | Z Axis Motor Mount - Rear                             |     1    |
+|||
 | Z Axis Lead Screw Bearing Holder - Front Left         |     1    |
 | Z Axis Lead Screw Bearing Holder - Front Right        |     1    |
 | Z Axis Lead Screw Bearing Holder - Rear               |     1    |
@@ -42,6 +43,7 @@ As a point of reference the stock V6 setup uses Option B. If your nozzle is more
 | Z Axis Bed Arm - Opt B - Front Right               |     1    |
 |||
 | Z Axis Motor Mount - Rear                          |     3    |
+|||
 | Z Axis Lead Screw Bearing Holder - Rear            |     3    |
 |||
 | Z Axis Linear Rod Bracket - Bottom Left - Scott3D  |     2    |
