@@ -18,7 +18,8 @@ A majority of these parts are going to be from RatRig because this bed system is
 
 This bed configuration works for the stock V6 setup. Depending on your nozzle height you may need to change the length of the M5 screws and spacers.
 
-**You will have to find out the length of your lead screw yourself. I recommend either custom ordering or cutting a 350mm to length**
+**You will have to find out the length of your lead screw yourself. I recommend cutting a 350mm to length**
+
 ### Bed
 | Part                      | Quantity | Links |
 | :---                      |  :----:  | :---  |
@@ -48,11 +49,12 @@ This bed configuration works for the stock V6 setup. Depending on your nozzle he
 | Part                        | Quantity | Links |
 | :---                        |  :----:  | :---  |
 | NEMA 17 Stepper Motor       |     3    | [Amazon](https://a.co/d/fHqu4pj) |
+| F688ZZ Flanged - 8x16x5mm   |     3    | [RatRig US](https://us.ratrig.com/ball-bearing-f688zz.html), [RatRig INTL](https://ratrig.com/ball-bearing-f688zz.html) |
 | T8*8 Lead screw - 350mm     |     3    | [Amazon](https://a.co/d/1wLjaOY) |
 | Coupler - 5x8mm             |     3    | [Amazon](https://a.co/d/5FWJcxl) |
 | M3 Countersink - 12mm       |     12   | [Amazon](https://a.co/d/gf60rxQ) |
-| M5 Button Head Screw - 10mm |     16   | [Amazon](https://a.co/d/6TOt8Vt) |
-| M5 3030 T-Nut               |     16   | [Amazon](https://a.co/d/0dSIwOj) |
+| M5 Button Head Screw - 10mm |     20   | [Amazon](https://a.co/d/6TOt8Vt) |
+| M5 3030 T-Nut               |     20   | [Amazon](https://a.co/d/0dSIwOj) |
 
 
 # Printed Parts
