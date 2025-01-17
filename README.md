@@ -2,7 +2,9 @@
 
 All the necessary components to fit the RatRig cast bed inside a the stock Hypercube Evo frame.
 
-![Hypercube Evolution Kinematic Z Axis](Images/HEVO_KinematicZ.png)
+<p align="center">
+  <img align="center" src="Images/HEVO_KinematicZ.png" />
+</p>
 
 # Configurations
 
