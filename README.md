@@ -1,12 +1,14 @@
 # Kinematic Z Axis for Hypercube Evolution
 
-All the necessary components to fit the RatRig cast bed inside a the stock Hypercube Evo frame.
+All the necessary components to fit the RatRig bed inside a the stock Hypercube Evo frame.
 
 <p align="center">
-  <img align="center" src="Images/HEVO_KinematicZ.png" />
+  <img src="Images/HEVO_KinematicZ.png" />
 </p>
 
 # Configurations
+
+As a point of reference the stock V6 setup uses Option B. If your nozzle is more forward, use Option A.
 
 | Option A | Option B | Option C |
 |  :----:  |  :----:  |  :----:  |
@@ -23,6 +25,9 @@ All the necessary components to fit the RatRig cast bed inside a the stock Hyper
 |||
 | Z Axis Motor Mount - Front                            |     2    |
 | Z Axis Motor Mount - Rear                             |     1    |
+| Z Axis Lead Screw Bearing Holder - Front Left         |     1    |
+| Z Axis Lead Screw Bearing Holder - Front Right        |     1    |
+| Z Axis Lead Screw Bearing Holder - Rear               |     1    |
 |||
 | Z Axis Linear Rod Bracket - Bottom Left - Scott3D     |     2    |
 | Z Axis Linear Rod Bracket - Bottom Right - Scott3D    |     1    |
@@ -37,6 +42,7 @@ All the necessary components to fit the RatRig cast bed inside a the stock Hyper
 | Z Axis Bed Arm - Opt B - Front Right               |     1    |
 |||
 | Z Axis Motor Mount - Rear                          |     3    |
+| Z Axis Lead Screw Bearing Holder - Rear            |     3    |
 |||
 | Z Axis Linear Rod Bracket - Bottom Left - Scott3D  |     2    |
 | Z Axis Linear Rod Bracket - Bottom Right - Scott3D |     1    |
