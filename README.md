@@ -96,6 +96,6 @@ You can use Scott3D's linear rod brackets and the stock 400mm linear rods.
 | Coupler - 5x8mm             |     3    | [Amazon](https://a.co/d/5FWJcxl) |
 | M3 Heat Inserts             |     6    | |
 | M3 Cap Head - 25 mm         |     6    | [Amazon](https://a.co/d/0atVqlW) |
-| M3 Countersink - 12mm       |     12   | [Amazon](https://a.co/d/gf60rxQ) |
+| M3 Countersink - 10mm       |     12   | [Amazon](https://a.co/d/gf60rxQ) |
 | M5 Button Head Screw - 10mm |     32   | [Amazon](https://a.co/d/6TOt8Vt) |
 | M5 3030 T-Nut               |     32   | [Amazon](https://a.co/d/0dSIwOj) |
