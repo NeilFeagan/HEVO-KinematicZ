@@ -2,12 +2,23 @@
 
 All the necessary components to fit the RatRig bed inside a the stock Hypercube Evo frame.
 
+# Table of Contents
+- [Configurations](#configurations)
+- [Printed Parts](#printed-parts)
+  - [Option A or B](#option-a-or-b)
+  - [Option C](#option-c)
+- [BOM](#bom)
+  - [Frame](#frame)
+  - [Bed](#bed)
+  - [Bed Arms](#bed-arms)
+  - [Motion](#motion)
+- [Build Guides (Coming Soom)](#build-guides)
+
 <p align="center">
   <img src="Images/HEVO_KinematicZ.png" />
 </p>
 
 # Configurations
-
 As a point of reference the stock V6 setup uses Option B. If your nozzle is more forward, use Option A.
 
 | Option A | Option B | Option C |
@@ -59,6 +70,11 @@ This bed configuration works for the stock V6 setup. Depending on your nozzle he
 
 **You will have to find out the length of your lead screw yourself. I recommend cutting a 350mm to length**
 
+### Frame
+| Part                            | Quantity | Link  |
+| :---                            |  :----:  | :---  |
+| 3030 Aluminum Extrusion - 420mm |    1     |       |
+
 ### Bed
 | Part                      | Quantity | Links |
 | :---                      |  :----:  | :---  |
@@ -99,3 +115,6 @@ You can use Scott3D's linear rod brackets and the stock 400mm linear rods.
 | M3 Countersink - 10mm       |     12   | [Amazon](https://a.co/d/gf60rxQ) |
 | M5 Button Head Screw - 10mm |     32   | [Amazon](https://a.co/d/6TOt8Vt) |
 | M5 3030 T-Nut               |     32   | [Amazon](https://a.co/d/0dSIwOj) |
+
+# Build Guides
+### Coming Soon
